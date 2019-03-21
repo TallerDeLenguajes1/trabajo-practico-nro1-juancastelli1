@@ -1,10 +1,10 @@
 # trabajo-practico-nro1-juancastelli1
 
-<font color="green">Trabajo practico de Juan Castelli  </font>
+<font color="green">Trabajo practico de Juan Castelli 
 ```
 >             ,----------------,              ,---------,
 >        ,-----------------------,          ,"        ,"|
->      ,"                      ,"|        ,"        ,"  | 
+>      ,"                      ,"|        ,"        ,"  |
 >     +-----------------------+  |      ,"        ,"    |
 >     |  .-----------------.  |  |     +---------+      |
 >     |  |                 |  |  |     | -==----'|      |
